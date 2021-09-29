@@ -23,6 +23,10 @@ body {
     justify-content: flex-end;
 }
 
+.nav-link {
+    font-weight: 600;
+}
+
 footer {
     background-color: lightgray;
     justify-content: center;
