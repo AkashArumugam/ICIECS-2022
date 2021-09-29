@@ -77,6 +77,10 @@ footer {
     #contactDetails {
         text-align: center !important;
     }
+
+    #jumbotron {
+        width: 90% !important;
+    }
 }
 
 @media only screen and (max-width: 737px) {
