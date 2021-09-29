@@ -47,7 +47,7 @@ footer {
 
 /* End of About Us */
 
-@media (min-width: 992px) and (max-width: 1364px) {
+@media (min-width: 992px) and (max-width: 1490px) {
     
     #navbarContainer {
         justify-content: center;
