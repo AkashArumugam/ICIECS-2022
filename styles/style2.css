@@ -1,5 +1,18 @@
 body {
     padding: 0% !important;
+    background-color: #faf9f3;
+}
+
+.navbar {
+    background-color: #e7e1af;
+}
+
+.nav-link.active {
+    background-color: #faf9f3 !important;
+}
+
+.dropdown-menu {
+    background-color: #faf9f3;
 }
 
 .navbar-brand {
@@ -28,7 +41,7 @@ body {
 }
 
 footer {
-    background-color: lightgray;
+    background-color: #d4d2c7;
     justify-content: center;
     padding: 10px 0 10px 0;
 }
