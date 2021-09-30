@@ -19,6 +19,24 @@ body {
     background-color: #faf9f3 !important;
 }
 
+.accordion-button {
+    color: darkgreen !important;
+    font-size: medium;
+    font-weight: 600;
+}
+
+.accordion-button {
+    background-color: #faf9f3 !important;
+}
+
+.accordion-item {
+    background-color: #faf9f3 !important;
+}
+
+.accordion-body {
+    background-color: #faf9f3 !important;
+}
+
 .navbar-brand {
     white-space: normal;
     font-weight: 700;
