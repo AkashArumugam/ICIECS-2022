@@ -81,6 +81,11 @@ footer {
     #jumbotron {
         width: 90% !important;
     }
+
+    .about-row {
+        padding-right: 15px !important;
+        padding-left: 15px !important;
+    }
 }
 
 @media only screen and (max-width: 737px) {
