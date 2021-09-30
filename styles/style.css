@@ -15,6 +15,10 @@ body {
     background-color: #faf9f3;
 }
 
+.card {
+    background-color: #faf9f3 !important;
+}
+
 .navbar-brand {
     white-space: normal;
     font-weight: 700;
