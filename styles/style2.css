@@ -154,7 +154,7 @@ li{
 }
 /* End of Committee Page */
 
-@media (min-width: 992px) and (max-width: 1490px) {
+@media (min-width: 992px) and (max-width: 1640px) {
     
     #navbarContainer {
         justify-content: center;
