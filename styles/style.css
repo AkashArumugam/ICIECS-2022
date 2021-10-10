@@ -132,10 +132,6 @@ footer {
         width: 90%;
         min-height: 200px;
     }
-    
-    .jumbo-text {
-        font-size: 0.9rem;
-    }
 }
 
 @media only screen and (max-width: 737px) {
@@ -148,6 +144,14 @@ footer {
     
     * {
         font-size: 0.9rem;
+    }
+
+    .jumbo-text-main {
+        font-size: 1.2rem;
+    }
+
+    .jumbo-text {
+        font-size: 0.7rem;
     }
 
     .logo {
