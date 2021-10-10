@@ -3,6 +3,16 @@ body {
     background-color: #faf9f3;
 }
 
+#jumbotronContainer {
+    width: 80%;
+    min-height: 400px;
+
+    border-radius: 25px;
+    background-image: url("../assets/images/conf-img-6.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .navbar {
     background-color: #e7e1af;
 }
@@ -113,13 +123,18 @@ footer {
         text-align: center !important;
     }
 
-    #jumbotron {
-        width: 90% !important;
-    }
-
     .about-row {
         padding-right: 15px !important;
         padding-left: 15px !important;
+    }
+
+    #jumbotronContainer {
+        width: 90%;
+        min-height: 200px;
+    }
+    
+    .jumbo-text {
+        font-size: 0.9rem;
     }
 }
 
