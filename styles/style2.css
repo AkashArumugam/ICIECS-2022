@@ -3,6 +3,12 @@ body {
     background-color: #faf9f3;
 }
 
+.navbar-toggler {
+    background-color: #d4d2c7;
+    border-radius: 20px;
+    border-width: 3px;
+}
+
 #jumbotronContainer {
     width: 80%;
     min-height: 400px;
@@ -242,6 +248,10 @@ li{
 
     .jumbo-text {
         font-size: 0.7rem;
+    }
+
+    #autonomous {
+        font-size: 0.67rem !important;
     }
 
     .logo {
