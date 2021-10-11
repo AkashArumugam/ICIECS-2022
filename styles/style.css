@@ -176,6 +176,10 @@ footer {
         justify-content: center;
     }
 
+    .navbar-brand {
+        margin-right: 0% !important;
+    }
+
     #navbarOther {
         margin-right: 30px;
     }
