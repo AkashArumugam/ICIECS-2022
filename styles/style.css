@@ -188,4 +188,11 @@ footer {
     #navbarOther {
         margin-right: 30px;
     }
+
+    .card {
+        height: 470px;
+        margin-bottom: 15px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
 }
