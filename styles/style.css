@@ -78,6 +78,11 @@ body {
     font-weight: 600;
 }
 
+.card {
+    height: 470px;
+    margin-bottom: 15px;
+}
+
 footer {
     background-color: #d4d2c7;
     justify-content: center;
